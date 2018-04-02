@@ -1,0 +1,14 @@
+{
+  "name": "vue-scaffold-pages-template",
+  "version": "0.0.1",
+  "title": "vue 的脚手架页面模版",
+  "description": "一些vue 脚手架页面模版, 不会覆盖, 便于快速起步",
+  "pageDesc": {
+    "vue-blank": {
+      "title": "一个空白页面, html,css,js分离"
+    },
+    "vue-simple-blank": {
+      "title": "一个更简单空白页面"
+    }
+  }
+}
