@@ -1,14 +1,15 @@
 {
+
   "vue-blank": {
     "title": "vue标准页面模板",
     "version": "0.0.1",
     "desc": "html, css, js分离",
-    "snapshot": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1523120881949&di=2c576b299c28049eff1815a4dcd03ea2&imgtype=0&src=http%3A%2F%2Fimg.25pp.com%2Fuploadfile%2Fsoft%2Fimages%2F2015%2F0223%2F20150223025750594.jpg"
+    "snapshot": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1523120831766&di=d04e2f2b88e2d59d8ce113477670b0ba&imgtype=0&src=http%3A%2F%2Fwww.xz7.com%2Fup%2F2017-7%2F201771392324.png"
   },
   "vue-simple-blank": {
     "title": "vue简约页面模板",
     "version": "0.0.1",
     "desc": "更简单的一个模版",
-    "snapshot": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1523120881949&di=2c576b299c28049eff1815a4dcd03ea2&imgtype=0&src=http%3A%2F%2Fimg.25pp.com%2Fuploadfile%2Fsoft%2Fimages%2F2015%2F0223%2F20150223025750594.jpg"
+    "snapshot": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1523120831766&di=d04e2f2b88e2d59d8ce113477670b0ba&imgtype=0&src=http%3A%2F%2Fwww.xz7.com%2Fup%2F2017-7%2F201771392324.png"
   }
 }
