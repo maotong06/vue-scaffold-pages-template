@@ -1,14 +1,14 @@
 {
 
-  "vue-blank": {
+  "vue_blank": {
     "title": "vue标准页面模板",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "desc": "html, css, js分离",
     "snapshot": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1523120831766&di=d04e2f2b88e2d59d8ce113477670b0ba&imgtype=0&src=http%3A%2F%2Fwww.xz7.com%2Fup%2F2017-7%2F201771392324.png"
   },
-  "vue-simple-blank": {
+  "vue_simple_blank": {
     "title": "vue简约页面模板",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "desc": "更简单的一个模版",
     "snapshot": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1523120831766&di=d04e2f2b88e2d59d8ce113477670b0ba&imgtype=0&src=http%3A%2F%2Fwww.xz7.com%2Fup%2F2017-7%2F201771392324.png"
   }
