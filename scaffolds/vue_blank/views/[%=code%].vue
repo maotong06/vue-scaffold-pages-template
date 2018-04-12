@@ -1,6 +1,6 @@
 <template>
   <div class="[%=code%]">
-    {{[%=code%]}}
+    [%=code%]
   </div>
 </template>
 

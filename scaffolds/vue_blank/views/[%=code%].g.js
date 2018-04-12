@@ -14,8 +14,8 @@ export default {
     this.init_g(this.metauiJson)
   },{{/if}}
   methods: {
-    init_g(res) {
-      document.title = res.cfg.title
+    init_g() {
+      document.title = this.metauiJson.title
     }
   }
 }
