@@ -6,8 +6,8 @@ export default {
     }
   },
   async created(){
-    let res = await this.loadCfg('[%=_module.code%]', code)
-    this.metauiJson = res
+    // let res = await this.loadCfg('[%=_module.code%]', code)
+    // this.metauiJson = res
     this.init_g(this.metauiJson)
   },{{if metaData.router_keepAlive}}
   activated(){
@@ -15,8 +15,7 @@ export default {
   },{{/if}}
   methods: {
     init_g(res) {
-      document.title = _.get(res, 'cfg.title', {})
-      this.initWx_g(wxcfg)
+      document.title = res.cfg.title
     }
   }
 }
